@@ -9,4 +9,4 @@ This is my first Flutter application. It is a basic Dice Roll app.
 - [How to set the app launcher icon](https://www.geeksforgeeks.org/flutter-changing-app-icon/)
 
 ### Screenshot
-  <img src="dice_app/screenshots/app_screenshot.jpg" alt="drawing" width="200"/>
+  <img src="screenshots/app_screenshot.jpg" alt="drawing" width="200"/>
